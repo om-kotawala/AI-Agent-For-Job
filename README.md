@@ -2,11 +2,11 @@ This is an AI Agent where you can check the ATS Score of your resume and after t
 Currently the jobs are being scraped from google jobs but we are trying to scrape it from linkedin in further updates
 
 # Directories for the frontend to be followed 
-npm create vite@latest
-provide name as fronted
-select React in next step
-select JavaScript in next step and press enter
-cd frontend
-npm i
-npm i axios
-npm install tailwindcss @tailwindcss/vite 
+#npm create vite@latest
+#provide name as fronted
+3select React in next step
+#select JavaScript in next step and press enter
+#cd frontend
+#npm i
+#npm i axios
+#npm install tailwindcss @tailwindcss/vite 
