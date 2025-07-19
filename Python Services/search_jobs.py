@@ -6,7 +6,7 @@ def get_jobs_from_google(job_role):
     params = {
         "engine": "google_jobs",
         "q": f"{job_role} India",
-        "api_key": "YOUR_SCREP_API_KEY"
+        "api_key": "SCREP_API_KEY"
     }
 
     search = GoogleSearch(params)
